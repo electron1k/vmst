@@ -1,0 +1,6 @@
+proctitle=/usr/bin/wipe -f -r -c -s -qQ 5 -R /dev/random -Z -F /home/pavel/vmst/51for_delete.txt 
+proctitle=/usr/bin/wipe -f -r -c -s -qQ 5 -R /dev/random -Z /home/pavel/vmst/52for_delete.txt 
+proctitle=/usr/bin/wipe -f -r -c -s -qQ 5 -R /dev/random /home/pavel/vmst/53for_delete.txt 
+proctitle=/usr/bin/wipe -f -r -c -s -qQ 5 -R /dev/random -Z -F /home/pavel/vmst/51for_delete.txt 
+proctitle=/usr/bin/wipe -f -r -c -s -qQ 5 -R /dev/random -Z /home/pavel/vmst/52for_delete.txt 
+proctitle=/usr/bin/wipe -f -r -c -s -qQ 5 -R /dev/random /home/pavel/vmst/53for_delete.txt 
