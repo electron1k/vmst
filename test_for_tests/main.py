@@ -22,7 +22,7 @@ import pyautogui
 
 # width="415", height="360"
 def start_app():
-    proc = subprocess.Popen('osnova-file-shred', shell=False)
+    proc = subprocess.Popen('kate', shell=False)
     print("proc running")
 
 
