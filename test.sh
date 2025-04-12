@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "$USER"
+iam=`pwd`
 
-sudo touch home/pavel/$USER.txt
+sudo touch ${pwd}$1.txt
